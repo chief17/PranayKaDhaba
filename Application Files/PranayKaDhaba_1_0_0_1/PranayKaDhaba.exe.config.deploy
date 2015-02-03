@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="PranayKaDhaba.Properties.Settings.WorkingOne" connectionString="server=localhost;user id=root;database=test"
+            providerName="MySql.Data.MySqlClient" />
+        <add name="PranayKaDhaba.Properties.Settings.testConnectionString"
+            connectionString="server=localhost;user id=root;persistsecurityinfo=True;database=test"
+            providerName="MySql.Data.MySqlClient" />
+        <add name="PranayKaDhaba.Properties.Settings.testConnectionString1"
+            connectionString="server=localhost;user id=root;password=toor;persistsecurityinfo=True;database=test"
+            providerName="MySql.Data.MySqlClient" />
+    </connectionStrings>
+</configuration>
